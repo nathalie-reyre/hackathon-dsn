@@ -45,7 +45,7 @@ Plusieurs cibles :
 - [Dico Metriques du Dataset_20240515081257.xlsx](https://github.com/adenoix/hackathon-dsn/blob/main/Dico%20Metriques%20du%20Dataset_20240515081257.xlsx) 
 - [Flux de données](https://github.com/adenoix/hackathon-dsn/blob/main/Flux%20Data_20240515081247.pptx) 
 
-### [Facultatif] Retours sur la qualité des données exploitées
+### Retours sur la qualité des données exploitées
 
 * *Quelles sont les difficultés que vous avez rencontrées dans l’usage des données ?*
 - La table des liens est bizarrement configurée et oblige à mutiplier les jointures
