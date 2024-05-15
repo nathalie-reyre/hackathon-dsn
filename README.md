@@ -40,8 +40,8 @@ Plusieurs cibles :
   - Impact visé pour les entreprises : accélérer l'adoption de pratiques de recrutement inclusives. Ce que l'on souhaite mesurer : est-ce que l'exposition à un score peut inciter les entreprises à modifier leur comportement de recrutement ? les entreprises qui n'ont pas le label engagée et à qui on a partagé leurs résultats ont-elles un socre qui s'améliore dans le temps ? Plus rapidement que les entreprises comparables qui n'ont pas été exposées à leur résultat. 
   
 ### Ressources
-
-* *Lien vers la documentation du projet*
+- [Dico Metriques du Dataset_20240515081257.xlsx](https://github.com/adenoix/hackathon-dsn/blob/main/Dico%20Metriques%20du%20Dataset_20240515081257.xlsx) 
+- [Flux de données](https://github.com/adenoix/hackathon-dsn/blob/main/Flux%20Data_20240515081247.pptx) 
 
 ### [Facultatif] Retours sur la qualité des données exploitées
 
