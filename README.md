@@ -20,9 +20,9 @@ Les données DSN permettent de calculer un score d'engagement. à partir de plus
 On a d'abord identifié les données utiles au calcul du score; Exemples de données appelées : lieu, code NAF, effectifs, type de contrats, etc. 
 
 Ensuite, on calcule un score pour combiner les données selons deux logiques : 
-  -> critères positifs : pratiques de recrutement, types de contrat proposés, égalité homme/femme, accueil en stage
-  -> critères négatifs : turn over, taux de risque AT/MP
-
+  -> critères positifs : pratiques de recrutement, types de contrat proposés, égalité homme/femme, accueil en stage, politique salariale...
+  -> critères négatifs : turn over, taux de risque AT/MP (pas intégré au MVP, faute de temps)...
+  
 Enfin, on pondère les critères à partir de l'établissement de médianes, en prenant en compte la taille de l'établissement, sa localisation, son secteur d'activité, les métiers pratiqués dans l'entreprise, les contrats proposés dans le secteur/métier
 
 NB : dans le type de contrats proposés, nous avons exclu les contrats à temps partiel car leur interprétation est complexe. Il est en effet impossible de distinguer le temps partiel voulu de celui imposé.  Nous avons intégré  les données liées à l'emploi des détenus mais sans pouvoir les exploiter en raison de leur fraicheur (données ajoutées à la DSN en 2024).
