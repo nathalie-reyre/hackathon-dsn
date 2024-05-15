@@ -42,7 +42,8 @@ Plusieurs cibles :
   
 ### Ressources
 
-* *Lien vers la documentation du projet*
+- [Dico Metriques du Dataset_20240515081257.xlsx](https://github.com/adenoix/hackathon-dsn/blob/main/Dico%20Metriques%20du%20Dataset_20240515081257.xlsx) 
+- [Flux de données](https://github.com/adenoix/hackathon-dsn/blob/main/Flux%20Data_20240515081247.pptx) 
 
 ### [Facultatif] Retours sur la qualité des données exploitées
 
